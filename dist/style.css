@@ -1,0 +1,40 @@
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#navbar {
+    background-color: rgb(236, 208, 207);
+    color:rgb(102, 99, 99);
+    font-size: 36px;
+}
+
+.navbar-brand {
+    font-size: 36px;
+}
+
+.card{
+    border-radius: 5px;
+    box-shadow: 0px 5px 5px  0px rgb(0,0,0,0.5);
+}
+
+.card-header {
+    background-color:rgb(236, 208, 207);
+    color: rgb(102, 99, 99);
+    margin: -1px;
+}
+
+.card-body {
+    background-color: white;
+    color: rgb(102, 99, 99);
+}
+
+.container {
+    margin: 100px auto;
+    justify-content: space-evenly;
+    display: flex;
+    
+}
+
+
